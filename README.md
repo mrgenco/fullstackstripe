@@ -10,11 +10,15 @@ We used Vue and Angular for the frontend since there is already a good amount of
 ## Stripe-Angular-.Net Tech Stack
 
 ### Frontend - UI
-
+Angular 10 using [Angular Materials](https://material.angular.io/components/categories),
+<br/>
 ### Backend - API
-
+.Net Core 3.1, 
+<br/>
 ### Servers
-
+UI is hosted on [AWS S3](https://aws.amazon.com/s3/) as a Single Page Application
+<br/>
+API is running on [Google Cloud-Run](https://cloud.google.com/run) as a Fully Managed Serverless Container
 
 
 ## Stripe-Vue-Express Tech Stack
@@ -26,9 +30,9 @@ Vue.js with [Vuetify](https://vuetifyjs.com/) Material Design Framework,
 Node.js with Express Framework, 
 <br/>
 ### Servers
-UI is hosted on [Netlify](https://www.netlify.com/) as a Single Page Application
+UI is hosted on [Netlify](https://www.netlify.com/) as a Static Web Application
 <br/>
-API is running on [Google Cloud-Run](https://cloud.google.com/run) as a Fully Managed Serverless Container
+API is running on [Azure Portal](https://azure.microsoft.com/en-us/features/azure-portal/)
 
 
 
