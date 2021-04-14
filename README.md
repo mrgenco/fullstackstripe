@@ -1,6 +1,4 @@
-# About this project
-
-Full-Stack web application demos showing the usage of [Stripe API](https://stripe.com/docs/api).
+A Repository for sample Stripe integrations showing the integration of [Stripe API](https://stripe.com/docs/api).
 <br/>
 We implemented some of the popular payment flows such as [Accepting Online Payments and Creating & Managing Subscriptions](https://stripe.com/docs/payments).
 <br/>
@@ -9,30 +7,30 @@ We used Vue and Angular for the frontend since there is already a good amount of
 
 ## Stripe-Angular-.Net Tech Stack
 
-### Frontend - UI
+#### Frontend - UI
 Angular 10 using [Angular Materials](https://material.angular.io/components/categories),
 <br/>
-### Backend - API
+#### Backend - API
 .Net Core 3.1, 
 <br/>
-### Servers
+#### Servers
 UI is hosted on [AWS S3](https://aws.amazon.com/s3/) as a Single Page Application
 <br/>
-API is running on [Google Cloud-Run](https://cloud.google.com/run) as a Fully Managed Serverless Container
+API is running on [Azure Portal](https://azure.microsoft.com/en-us/features/azure-portal/)
 
 
 ## Stripe-Vue-Express Tech Stack
 
-### Frontend - UI
+#### Frontend - UI
 Vue.js with [Vuetify](https://vuetifyjs.com/) Material Design Framework,
 <br/>
-### Backend - API
+#### Backend - API
 Node.js with Express Framework, 
 <br/>
-### Servers
+#### Servers
 UI is hosted on [Netlify](https://www.netlify.com/) as a Static Web Application
 <br/>
-API is running on [Azure Portal](https://azure.microsoft.com/en-us/features/azure-portal/)
+API is running on [Google Cloud-Run](https://cloud.google.com/run) as a Fully Managed Serverless Container
 
 
 
