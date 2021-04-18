@@ -6,8 +6,6 @@ We implemented some of the popular payment flows such as [Accepting Online Payme
 <br/>
 We used Vue and Angular for the frontend since there is already a good amount of resources that uses React and pure JavaScript.
 
-## Prerequisites and Installation
-Coming...
 
 ## Stripe-Angular-.Net Tech Stack
 
